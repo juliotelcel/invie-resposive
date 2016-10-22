@@ -1,2 +1,1 @@
-# invie
-Las guitarras más locas
+esta es una practica del curso resposive desing de platzi.
